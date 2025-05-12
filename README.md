@@ -6,8 +6,8 @@ Este projeto permite controlar o mouse do computador utilizando gestos da mão c
 ## ✨ Funcionalidades
 
 - 🖐️ **Movimentação do mouse** com a posição da mão.
-- 👉 **Clique simples** ao aproximar o dedo indicador do médio.
-- ✊ **Clique sustentado (drag)** ao fechar a mão e soltar ao abrir.
+- 👉 **Clique simples** ao abaixar o Dedo Indicador.
+- ✊ **Clique sustentado (drag)** ao abaixar o Dedo Médio.
 - 📺 Feedback visual com anotações em tempo real na tela.
 
 ## ⚙️ Tecnologias utilizadas
